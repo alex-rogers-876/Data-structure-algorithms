@@ -1,0 +1,81 @@
+Enter an id# and a name, type 0 to end: 
+57 Jonathan
+ID: 57 Name: Jonathan Stored in Bucket 1
+
+Enter an id# and a name, type 0 to end: 
+94 Gary
+ID: 94 Name: Gary Stored in Bucket 3
+
+Enter an id# and a name, type 0 to end: 
+43 Sylvia
+ID: 43 Name: Sylvia Stored in Bucket 1
+
+Enter an id# and a name, type 0 to end: 
+67 Sharon
+ID: 67 Name: Sharon Stored in Bucket 4
+
+Enter an id# and a name, type 0 to end: 
+99 William
+ID: 99 Name: William Stored in Bucket 2
+
+Enter an id# and a name, type 0 to end: 
+44 Irving
+ID: 44 Name: Irving Stored in Bucket 2
+
+Enter an id# and a name, type 0 to end: 
+16 Samantha
+ID: 16 Name: Samantha Stored in Bucket 3
+
+Enter an id# and a name, type 0 to end: 
+21 Michael
+ID: 21 Name: Michael Stored in Bucket 0
+
+Enter an id# and a name, type 0 to end: 
+51 Pablo
+ID: 51 Name: Pablo Stored in Bucket 4
+
+Enter an id# and a name, type 0 to end: 
+75 Beth
+ID: 75 Name: Beth Stored in Bucket 5
+
+Enter an id# and a name, type 0 to end: 
+78 Ernie
+ID: 78 Name: Ernie Stored in Bucket 5
+
+Enter an id# and a name, type 0 to end: 
+0
+
+Enter an id# to find a name, type 0 to end: 
+44
+ID: 44 Name: Irving
+
+Enter an id# to find a name, type 0 to end: 
+16
+ID: 16 Name: Samantha
+
+Enter an id# to find a name, type 0 to end: 
+67
+ID: 67 Name: Sharon
+
+Enter an id# to find a name, type 0 to end: 
+43
+ID: 43 Name: Sylvia
+
+Enter an id# to find a name, type 0 to end: 
+37
+37 Not Found
+
+Enter an id# to find a name, type 0 to end: 
+21
+ID: 21 Name: Michael
+
+Enter an id# to find a name, type 0 to end: 
+51
+ID: 51 Name: Pablo
+
+Enter an id# to find a name, type 0 to end: 
+78
+ID: 78 Name: Ernie
+
+Enter an id# to find a name, type 0 to end: 
+0

@@ -1,0 +1,9 @@
+Nodes: (0, 1) cost: 2
+Nodes: (0, 4) cost: 4
+Nodes: (0, 3) cost: 6
+Nodes: (1, 2) cost: 8
+Nodes: (2, 5) cost: 12
+Nodes: (3, 6) cost: 14
+Nodes: (5, 8) cost: 16
+Nodes: (6, 7) cost: 22
+Total edge Sum: 84
